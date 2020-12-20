@@ -1,8 +1,6 @@
 ## Projeto da cadeira de **Sistemas Operativos** 
 
-### Sistema de gestão de vendas.
-
-Elaborado pelo grupo 10 constituído pelos seguintes alunos:
+Elaborado pelo grupo constituído pelos seguintes alunos:
 
 [Júlio Miguel de Sá Lima Magalhães Alves](https://github.com/juliomiguelalves)
 
